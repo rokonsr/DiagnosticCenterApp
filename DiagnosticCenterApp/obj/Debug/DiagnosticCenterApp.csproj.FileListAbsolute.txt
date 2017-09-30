@@ -1,0 +1,40 @@
+D:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll.config
+D:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll
+D:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.pdb
+D:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.dll
+D:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.pdb
+D:\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.dll
+D:\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.xml
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll.config
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.pdb
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.dll
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.xml
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.dll
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.pdb
+E:\Batch 40\Rokon\25-04-2017\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.csprojResolveAssemblyReference.cache
+D:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.csprojResolveAssemblyReference.cache
+K:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll.config
+K:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll
+K:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.pdb
+K:\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.dll
+K:\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.xml
+K:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.csprojResolveAssemblyReference.cache
+K:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.dll
+K:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.pdb
+F:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll.config
+F:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll
+F:\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.pdb
+F:\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.dll
+F:\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.xml
+F:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.csprojResolveAssemblyReference.cache
+F:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.dll
+F:\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.pdb
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll.config
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.dll
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\bin\DiagnosticCenterApp.pdb
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.dll
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\bin\itextsharp.xml
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.csprojResolveAssemblyReference.cache
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.dll
+D:\Training\Projects\DiagnosticCenterApp\DiagnosticCenterApp\obj\Debug\DiagnosticCenterApp.pdb

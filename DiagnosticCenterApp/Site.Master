@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="DiagnosticCenterApp.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div class="col-md-3">
+                <nav class="navbar navbar-default">
+                    <ul class="nav navbar-default scheduler-border" style="border: inset 1px #DDD;">
+                        <li><a runat="server" href="Index.aspx">Home</a></li>
+                        <li><a runat="server" href="UI/TestTypeUI.aspx">Add Test Type</a></li>
+                        <li><a runat="server" href="UI/TestSetupUI.aspx">Test Setup</a></li>
+                        <li><a runat="server" href="UI/TestRequestUI.aspx">Test Request Entry</a></li>
+                        <li><a runat="server" href="UI/PaymentUI.aspx">Payment</a></li>
+                        <li><a runat="server" href="UI/TestwiseReportUI.aspx">Testwise Report</a></li>
+                        <li><a runat="server" href="UI/TypewiseReport.aspx">Typewise Report</a></li>
+                        <li><a runat="server" href="UI/UnpaidBillReport.aspx">Unpaid Bill</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-md-9">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
